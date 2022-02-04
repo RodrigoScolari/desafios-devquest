@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tabela{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.cabecalho-moda{
+    background-color: #BB86FC;
+}
+
+.valores-tabela{
+    background-color: #424250;
+}
+
+.cabecalho-casa{
+    background-color: #00C4B4;
+}
+
+th, td{
+    padding: 5px 10px;
+}
+
+td{
+    text-align: center;
+}
